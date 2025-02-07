@@ -1,0 +1,7 @@
+[package]
+name = "boarder"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+usb_enumeration = "0.1"
