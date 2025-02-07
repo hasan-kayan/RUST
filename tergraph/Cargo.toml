@@ -1,0 +1,8 @@
+[package]
+name = "tergraph"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+crossterm = "0.27"    # For terminal control (colors, cursor, clearing)
+unicode-width = "0.1" # For handling Unicode character widths
